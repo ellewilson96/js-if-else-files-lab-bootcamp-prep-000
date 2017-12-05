@@ -1,6 +1,7 @@
 var name = "Susan"
-var height = "70" praseInt()
-parseInt("height").innerHTML = 70
+var height = "70" parseInt("70").innerHTML
+
+
 
 
 

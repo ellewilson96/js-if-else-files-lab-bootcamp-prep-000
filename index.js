@@ -1,7 +1,7 @@
 var name = "Susan"
 
-var height = "70" ; 
-parseInt("70")
+var height = parseInt("70") ; 
+
 
 
 

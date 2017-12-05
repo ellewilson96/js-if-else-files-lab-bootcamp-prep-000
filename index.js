@@ -1,6 +1,6 @@
 var name = "Susan"
 var height = "70"
-height parseInt(height) = 70
+parseInt("height", 70).innerHTML
 
 
 

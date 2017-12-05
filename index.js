@@ -1,5 +1,6 @@
 var name = "Susan"
-var height = "70" parseInt("70").innerHTML;
+var height = "70" parseInt("70");
+
 
 
 
